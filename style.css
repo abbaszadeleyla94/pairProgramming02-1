@@ -1,0 +1,255 @@
+html,body{
+	width: 1350px;
+	font-family: 'Lato', sans-serif;
+}
+.header{
+	background-color: black;
+	height: 100px;
+	margin-right: 0;
+}
+.col-md-3{
+	background-color: red;
+	height: 90px;
+}
+.col-md-12{
+	background-image: url(pairProgramming02-master/images/page-1_slide1.jpg);
+	height: 450px;
+	background-size: cover;
+}
+.box{
+	height: 180px;
+	width: 377px;
+	background-color: #34C4F6;
+	margin-left: 320px;
+	margin-top: 220px;
+}
+.box h1{
+	text-align: center;
+	color: white;
+	padding-top: 20px;
+	font-family: 'Lato', sans-serif;
+	font-size: 60px; 
+}
+.box p{
+	color: white;
+	padding-left: 55px;
+	text-align: left;
+	font-size: 12px;
+}
+.content{
+	background-color: green;
+	height: 254px;
+	width: 255px;
+	margin-left: 296px;
+	margin-top: 20px;
+}
+.col-md-5{
+	background-color: red;
+	height: 254px;
+	width: 528px;
+	margin-left: 20px;
+	margin-top: 20px;
+	background-image: url(pairProgramming02-master/images/page-1_img2.jpg);
+	background-size: cover;
+}
+.content001{
+	background-image: url(pairProgramming02-master/images/page-4_img1.jpg);
+	background-color: green;
+    width: 254px;
+    height: 254px;
+	margin-top: 20px;
+	padding-left: 60px;
+	margin-left: 296px;
+	align-content: center;
+	background-size: cover;
+}
+.content1{
+	background-image: url(pairProgramming02-master/images/page-1_img3.jpg);
+	background-size: cover;
+	background-color: green;
+    width: 254px;
+    height: 254px;
+	margin-top: 20px;
+	padding-left: 60px;
+	margin-left: 296px;
+	align-content: center;
+	
+}
+.content2{
+	background-image: url(pairProgramming02-master/images/page-1_img4.jpg);
+	background-size: cover;
+	background-color: green;
+    width: 254px;
+    height: 254px;
+	margin-top: 20px;
+	padding-left: 60px;
+	margin-left: 20px;
+	align-content: center;
+}
+.content02{
+	background-image: url(pairProgramming02-master/images/page-1_img5.jpg);
+	background-size: cover;
+	background-color: green;
+    width: 254px;
+    height: 254px;
+	margin-top: 20px;
+	padding-left: 60px;
+	margin-left: 20px;
+	align-content: center;
+}
+h1{
+	text-align: center;
+	margin-top: 60px;
+	background-color: #F2F2F2;
+	margin-bottom: 0;
+	padding-top: 35px;
+	color: #21C2F8; 
+}
+.altinci{
+	background-color: #F2F2F2;
+	width: 666px;
+	height: 260px;
+	float: left;
+
+}
+.altinci p{
+	padding-top: 20px;
+	text-align: justify;
+	color: black;
+	font-size: 12px;
+	padding-left: 220px;
+}
+.altinci1{
+	background-color: #F2F2F2;
+	width: 699px;
+	height: 286px;
+	margin-top: -287px;
+	margin-left: 666px; 
+
+}
+.altinci1 p{
+	padding-top: 45px;
+	text-align: justify;
+	color: black;
+	font-size: 12px;
+	padding-left: 70px;
+}
+.services{
+	color: black;
+	margin-left: -650px;
+	background-color: white;
+}
+
+.list-group{
+	width: 360px;
+	margin-left: 225px;
+	margin-top: 30px;
+	float: left;
+}
+.list-group-item{
+	margin-top: 10px;
+	background-color: #21C2F8;
+	color: white;
+	transition: all .3s ease;
+}
+.list-group-item:hover{
+	background-color: black;
+}
+.image{
+	background-image: url(pairProgramming02-master/images/page-3_img3.jpg);
+	height: 241px;
+	width: 394px;
+	margin-top: 43px;
+	margin-left: 640px;
+}
+.row .ikinci {
+	background-image: url(pairProgramming02-master/images/parallax1.jpg);
+	height: 450px;
+	background-size: cover;
+}
+h2:first-child{
+	text-align: center;
+	color: white;
+	margin-top: 40px;
+	font-size: 90px;
+	text-transform: uppercase;
+
+}
+input{
+	margin-left: 600px;
+	background-color: #21C2F8;
+	color: white;
+	width: 152px;
+	height: 56px;
+	font-size: 20px;
+}
+.clients{
+	text-transform: uppercase;
+	color: black;
+	background-color: white;
+	text-align: none;
+	margin-left: -880px;
+	margin-top: 40px;
+
+}
+.content3{
+	background-image: url(pairProgramming02-master/images/page-1_img7.jpg);
+	width: 234px;
+	height: 160px;
+	margin-left: 100px;
+}
+.content4{
+	background-image: url(pairProgramming02-master/images/page-1_img8.jpg);
+    width: 234px;
+    height: 160px;
+    margin-left: 73px;
+
+}
+.content5{
+	background-image: url(pairProgramming02-master/images/page-1_img9.jpg);
+    width: 234px;
+    height: 160px;
+    margin-left: 73px;
+
+}
+.content6{
+	background-image: url(pairProgramming02-master/images/page-1_img10.jpg);
+    width: 234px;
+    height: 160px;
+    margin-left: 73px;
+
+}
+.content7{
+	background-image: url(pairProgramming02-master/images/page-1_img11.jpg);
+    width: 234px;
+    height: 160px;
+    margin-left: 85px;
+
+}
+.content8{
+	background-image: url(pairProgramming02-master/images/page-1_img12.jpg);
+    width: 234px;
+    height: 160px;
+    margin-left: 73px;
+
+}
+.content9{
+	background-image: url(pairProgramming02-master/images/page-1_img13.jpg);
+    width: 234px;
+    height: 160px;
+    margin-left: 73px;
+
+}
+.content10{
+	background-image: url(pairProgramming02-master/images/page-1_img14.jpg);
+    width: 234px;
+    height: 160px;
+    margin-left: 73px;
+
+}
+.map{
+	background-color: white;
+	width: 100%;
+}
+
+
